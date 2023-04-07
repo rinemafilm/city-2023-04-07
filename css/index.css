@@ -176,12 +176,11 @@ body {
 
 .section_02 .section_header {
     position: relative;
-    background-color: goldenrod;
     margin-bottom: 30px;
 }
 
 .section_02 .section_header .btn {
     position: absolute;
-    top: 0;
+    bottom: 0;
     right: 0;
 }
